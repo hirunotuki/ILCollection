@@ -42,19 +42,19 @@ $(window).on('resize', function () {
   }
 });
 
-$(function () {
-  if (window.matchMedia('(min-width: 960px)').matches) {
-    winH = $(window).height();
-    $('#title-area').outerHeight(winH, true);
-  }
-});
+// $(function () {
+//   if (window.matchMedia('(min-width: 960px)').matches) {
+//     winH = $(window).height();
+//     $('#title-area').outerHeight(winH, true);
+//   }
+// });
 
-$(window).on('resize', function () {
-  if (window.matchMedia('(min-width: 960px)').matches) {
-    winH = $(window).height();
-    $('#title-area').outerHeight(winH, true);
-  }
-});
+// $(window).on('resize', function () {
+//   if (window.matchMedia('(min-width: 960px)').matches) {
+//     winH = $(window).height();
+//     $('#title-area').outerHeight(winH, true);
+//   }
+// });
 
 $(function () {
   if (window.matchMedia('(min-width: 960px)').matches) {
