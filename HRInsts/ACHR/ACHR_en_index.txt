@@ -1,0 +1,106 @@
+﻿<h3>Preamble</h3>_
+<h20>Part I<br><span class="index-title">State Obligations and Rights Protected</span></h20>_
+<h21>Chapter I<br><span class="index-title">General Obligations</span></h21>_
+<h3>Article 1<br><span class="terminal-title">Obligation to Respect Rights</span></h3>_
+<h3>Article 2<br><span class="terminal-title">Domestic Legal Effects</span></h3>_
+<h21>Chapter II<br><span class="index-title">Civil and Political Rights</span></h21>_
+<h3>Article 3<br><span class="terminal-title">Right to Juridical Personality</span></h3>_
+<h3>Article 4<br><span class="terminal-title">Right to Life</span></h3>_
+<h3>Article 5<br><span class="terminal-title">Right to Humane Treatment</span></h3>_
+<h3>Article 6<br><span class="terminal-title">Freedom from Slavery</span></h3>_
+<h3>Article 7<br><span class="terminal-title">Right to Personal Liberty</span></h3>_
+<h3>Article 8<br><span class="terminal-title">Right to a Fair Trial</span></h3>_
+<h3>Article 9<br><span class="terminal-title">Freedom from Ex Post Facto Laws</span></h3>_
+<h3>Article 10<br><span class="terminal-title">Right to Compensation</span></h3>_
+<h3>Article 11<br><span class="terminal-title">Right to Privacy</span></h3>_
+<h3>Article 12<br><span class="terminal-title">Freedom of Conscience and Religion</span></h3>_
+<h3>Article 13<br><span class="terminal-title">Freedom of Thought and Expression</span></h3>_
+<h3>Article 14<br><span class="terminal-title">Right of Reply</span></h3>_
+<h3>Article 15<br><span class="terminal-title">Right of Assembly</span></h3>_
+<h3>Article 16<br><span class="terminal-title">Freedom of Association</span></h3>_
+<h3>Article 17<br><span class="terminal-title">Rights of the Family</span></h3>_
+<h3>Article 18<br><span class="terminal-title">Right to a Name</span></h3>_
+<h3>Article 19<br><span class="terminal-title">Rights of the Child</span></h3>_
+<h3>Article 20<br><span class="terminal-title">Right to Nationality</span></h3>_
+<h3>Article 21<br><span class="terminal-title">Right to Property</span></h3>_
+<h3>Article 22<br><span class="terminal-title">Freedom of Movement and Residence</span></h3>_
+<h3>Article 23<br><span class="terminal-title">Right to Participate in Government</span></h3>_
+<h3>Article 24<br><span class="terminal-title">Right to Equal Protection</span></h3>_
+<h3>Article 25<br><span class="terminal-title">Right to Judicial Protection</span></h3>_
+<h21>Chapter III<br><span class="index-title">Economic, Social, and Cultural Rights</span></h21>_
+<h3>Article 26<br><span class="terminal-title">Progressive Development</span></h3>_
+<h21>Chapter IV<br><span class="index-title">Suspension of Guarantees, Interpretation, and Application</span></h21>_
+<h3>Article 27<br><span class="terminal-title">Suspension of Guarantees</span></h3>_
+<h3>Article 28<br><span class="terminal-title">Federal Clause</span></h3>_
+<h3>Article 29<br><span class="terminal-title">Restrictions Regarding Interpretation</span></h3>_
+<h3>Article 30<br><span class="terminal-title">Scope of Restrictions</span></h3>_
+<h3>Article 31<br><span class="terminal-title">Recognition of Other Rights</span></h3>_
+<h21>Chapter V<br><span class="index-title">Personal Responsibilities</span></h21>_
+<h3>Article 32<br><span class="terminal-title">Relationship between Duties and Rights</span></h3>_
+<h20>Part II<br><span class="index-title">Means of Protection</span></h20>_
+<h21>Chapter VI<br><span class="index-title">Competent Organs</span></h21>_
+<h3>Article 33</h3>_
+<h21>Chapter VII<br><span class="index-title">Inter-American Commission on Human Rights</span></h21>_
+<h22>Section 1<br><span class="index-title">Organization</span></h22>_
+<h3>Article 34</h3>_
+<h3>Article 35</h3>_
+<h3>Article 36</h3>_
+<h3>Article 37</h3>_
+<h3>Article 38</h3>_
+<h3>Article 39</h3>_
+<h3>Article 40</h3>_
+<h22>Section 2<br><span class="index-title">Functions</span></h22>_
+<h3>Article 41</h3>_
+<h3>Article 42</h3>_
+<h3>Article 43</h3>_
+<h22>Section 3<br><span class="index-title">Competence</span></h22>_
+<h3>Article 44</h3>_
+<h3>Article 45</h3>_
+<h3>Article 46</h3>_
+<h3>Article 47</h3>_
+<h22>Section 4<br><span class="index-title">Procedure</span></h22>_
+<h3>Article 48</h3>_
+<h3>Article 49</h3>_
+<h3>Article 50</h3>_
+<h3>Article 51</h3>_
+<h21>Chapter VIII<br><span class="index-title">Inter-American Court of Human Rights</span></h21>_
+<h22>Section 1<br><span class="index-title">Organization</span></h22>_
+<h3>Article 52</h3>_
+<h3>Article 53</h3>_
+<h3>Article 54</h3>_
+<h3>Article 55</h3>_
+<h3>Article 56</h3>_
+<h3>Article 57</h3>_
+<h3>Article 58</h3>_
+<h3>Article 59</h3>_
+<h3>Article 60</h3>_
+<h22>Section 2<br><span class="index-title">Jurisdiction and Functions</span></h22>_
+<h3>Article 61</h3>_
+<h3>Article 62</h3>_
+<h3>Article 63</h3>_
+<h3>Article 64</h3>_
+<h3>Article 65</h3>_
+<h22>Section 3<br><span class="index-title">Procedure</span></h22>_
+<h3>Article 66</h3>_
+<h3>Article 67</h3>_
+<h3>Article 68</h3>_
+<h3>Article 69</h3>_
+<h21>Chapter IX<br><span class="index-title">Common Provisions</span></h21>_
+<h3>Article 70</h3>_
+<h3>Article 71</h3>_
+<h3>Article 72</h3>_
+<h3>Article 73</h3>_
+<h20>Part III<br><span class="index-title">General and Transitory Provisions</span></h20>_
+<h21>Chapter X<br><span class="index-title">Signature, Ratification, Reservations, Amendments, Protocols, and Denunciation</span></h21>_
+<h3>Article 74</h3>_
+<h3>Article 75</h3>_
+<h3>Article 76</h3>_
+<h3>Article 77</h3>_
+<h3>Article 78</h3>_
+<h21>Chapter XI<br><span class="index-title">Transitory Provisions</span></h21>_
+<h22>Section 1<br><span class="index-title">Inter-American Commission on Human Rights</span></h22>_
+<h3>Article 79</h3>_
+<h3>Article 80</h3>_
+<h22>Section 2<br><span class="index-title">Inter-American Court of Human Rights</span></h22>_
+<h3>Article 81</h3>_
+<h3>Article 82</h3></ul>_
