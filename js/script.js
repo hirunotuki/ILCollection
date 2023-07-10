@@ -1,3 +1,4 @@
+// ローディング
 $(function () {
   //読み込みが完了したら実行する
   $(window).on('load', function () {
@@ -6,12 +7,12 @@ $(function () {
     //背景色をフェードアウト
     $('.loader-bg').delay(900).fadeOut(800);
   });
-
   //ページの読み込みが完了してなくても5秒後にアニメーションを非表示にする
   setTimeout(function () {
     $('.loader-bg').fadeOut(600);
   }, 5000);
 });
+// ここまで
 
 (function (d) {
   var config = {
@@ -42,6 +43,13 @@ $(window).on('resize', function () {
   }
 });
 
+$(function () {
+  $('.ovv-title h1').css('margin-bottom', $('.ovv-title').height() * -0.12)
+})
+$(window).on('resize', function () {
+  $('.ovv-title h1').css('margin-bottom', $('.ovv-title').height() * -0.12)
+});
+
 // $(function () {
 //   if (window.matchMedia('(min-width: 960px)').matches) {
 //     winH = $(window).height();
@@ -61,10 +69,10 @@ $(function () {
     $(window).on("scroll", function () {
       transHeight = $('#first-view').outerHeight(true);
       if ($(window).scrollTop() > transHeight) {
-        $(".header-art").addClass("trans");
+        $(".header-art, #title-area").addClass("trans");
         $('#table-area').css('padding-top', '132px')
       } else {
-        $(".header-art").removeClass("trans");
+        $(".header-art, #title-area").removeClass("trans");
         $('#table-area').css('padding-top', fvH / 3 * 2)
       }
     });
@@ -73,15 +81,17 @@ $(function () {
     $(window).on("scroll", function () {
       transHeight = $('#first-view').outerHeight(true);
       if ($(window).scrollTop() > transHeight) {
-        $(".header-art").addClass("trans");
+        $(".header-art, #title-area").addClass("trans");
         $(".header-art" + ".trans").find('img').attr('src', '../../images/icon_ILC.svg')
       } else {
-        $(".header-art").removeClass("trans");
+        $(".header-art, #title-area").removeClass("trans");
         $(".header-art").find('img').attr('src', '../../images/logo_ILC.svg')
       }
     });
   }
 });
+
+
 
 
 $(function () {
