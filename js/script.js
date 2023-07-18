@@ -30,7 +30,7 @@ $(function () {
     winH = $(window).height();
     fvH = $('#first-view').outerHeight(true);
     // $('#table-area, #ta-title-short').outerHeight(winH, true);
-    $('#table-area').css('padding-top', fvH / 3 * 2)
+    $('#table-area').css('padding-top', Math.min(fvH / 3 * 2, winH / 2))
   }
 });
 
@@ -39,7 +39,7 @@ $(window).on('resize', function () {
     winH = $(window).height();
     fvH = $('#first-view').outerHeight(true);
     // $('#table-area, #ta-title-short').outerHeight(winH, true);
-    // $('#table-area').css('padding-top', fvH / 2)
+    $('#table-area').css('padding-top', Math.min(fvH / 3 * 2, winH / 2))
   }
 });
 
@@ -73,7 +73,7 @@ $(function () {
         $('#table-area').css('padding-top', '132px')
       } else {
         $(".header-art, #title-area").removeClass("trans");
-        $('#table-area').css('padding-top', fvH / 3 * 2)
+        $('#table-area').css('padding-top', Math.min(fvH / 3 * 2, winH / 2))
       }
     });
   }
@@ -83,9 +83,11 @@ $(function () {
       if ($(window).scrollTop() > transHeight) {
         $(".header-art, #title-area").addClass("trans");
         $(".header-art" + ".trans").find('img').attr('src', '../../images/icon_ILC.svg')
+        $("#title-area" + ".trans").css('padding-top', $(".header-art" + ".trans").outerWidth())
       } else {
         $(".header-art, #title-area").removeClass("trans");
         $(".header-art").find('img').attr('src', '../../images/logo_ILC.svg')
+        $("#title-area" + ".trans").css('padding-top', '0')
       }
     });
   }
@@ -126,11 +128,11 @@ for (var i = 0; i < link.length; i++) {
 }
 
 
-$(function () {
-  $('.menu-btn').on('click', function () {
-    $('.index-menu').toggleClass('is-active');
-  });
-}());
+// $(function () {
+//   $('.menu-btn').on('click', function () {
+//     $('.index-menu').toggleClass('is-active');
+//   });
+// }());
 
 
 // fvのheightをブラウザに合わせる。from https://webdesignday.jp/inspiration/technique/css/3875/
@@ -154,3 +156,31 @@ $(window).on('resize', function () {
     $('.header-col').outerHeight(winH, true);
   }
 });
+
+
+// spの目次制御
+// $(function () {
+//   $('.menu-btn').on('click', function () {
+//     $('#table').toggleClass('active');
+//   });
+//   $('#table' + '.is-active').find('a').on('click', function(){
+//     $('#table').removeClass('active');
+//   })
+// }());
+
+$(function(){
+  $('#toc-btn').on('click', function(){
+    if ($('#toc-btn').hasClass('on')){
+      $('#toc-btn').removeClass('on')
+      $('#table').removeClass('active')
+    }
+    else {
+      $('#toc-btn').addClass('on')
+      $('#table').addClass('active')
+    }
+  })
+  $('#table a').on('click', function(){
+    $('#toc-btn').removeClass('on')
+    $('#table').removeClass('active')
+  })
+})
