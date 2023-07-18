@@ -488,102 +488,6 @@ th {
 }
 
 @font-face {
-  font-family: "gaultier-ilc";
-  src: url("https://use.typekit.net/af/eda481/00000000000000007735c63f/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/eda481/00000000000000007735c63f/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/eda481/00000000000000007735c63f/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
-  font-display: auto;
-  font-style: normal;
-  font-weight: 400;
-  font-stretch: normal;
-}
-@font-face {
-  font-family: "gaultier-ilc";
-  src: url("https://use.typekit.net/af/c13e1b/00000000000000007735c642/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"), url("https://use.typekit.net/af/c13e1b/00000000000000007735c642/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"), url("https://use.typekit.net/af/c13e1b/00000000000000007735c642/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
-  font-display: auto;
-  font-style: italic;
-  font-weight: 400;
-  font-stretch: normal;
-}
-@font-face {
-  font-family: "gaultier-ilc";
-  src: url("https://use.typekit.net/af/9982e7/00000000000000007735c645/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff2"), url("https://use.typekit.net/af/9982e7/00000000000000007735c645/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff"), url("https://use.typekit.net/af/9982e7/00000000000000007735c645/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("opentype");
-  font-display: auto;
-  font-style: normal;
-  font-weight: 500;
-  font-stretch: normal;
-}
-@font-face {
-  font-family: "gaultier-ilc";
-  src: url("https://use.typekit.net/af/b9586e/00000000000000007735c64a/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") format("woff2"), url("https://use.typekit.net/af/b9586e/00000000000000007735c64a/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") format("woff"), url("https://use.typekit.net/af/b9586e/00000000000000007735c64a/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") format("opentype");
-  font-display: auto;
-  font-style: italic;
-  font-weight: 500;
-  font-stretch: normal;
-}
-@font-face {
-  font-family: "gaultier-ilc";
-  src: url("https://use.typekit.net/af/f9f87d/00000000000000007735c64e/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff2"), url("https://use.typekit.net/af/f9f87d/00000000000000007735c64e/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff"), url("https://use.typekit.net/af/f9f87d/00000000000000007735c64e/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("opentype");
-  font-display: auto;
-  font-style: normal;
-  font-weight: 600;
-  font-stretch: normal;
-}
-@font-face {
-  font-family: "gaultier-ilc";
-  src: url("https://use.typekit.net/af/995506/00000000000000007735c651/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3") format("woff2"), url("https://use.typekit.net/af/995506/00000000000000007735c651/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3") format("woff"), url("https://use.typekit.net/af/995506/00000000000000007735c651/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3") format("opentype");
-  font-display: auto;
-  font-style: italic;
-  font-weight: 600;
-  font-stretch: normal;
-}
-@font-face {
-  font-family: "gaultier-ilc";
-  src: url("https://use.typekit.net/af/b72137/00000000000000007735c653/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"), url("https://use.typekit.net/af/b72137/00000000000000007735c653/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"), url("https://use.typekit.net/af/b72137/00000000000000007735c653/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
-  font-display: auto;
-  font-style: normal;
-  font-weight: 700;
-  font-stretch: normal;
-}
-@font-face {
-  font-family: "gaultier-ilc";
-  src: url("https://use.typekit.net/af/43d0ee/00000000000000007735c655/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"), url("https://use.typekit.net/af/43d0ee/00000000000000007735c655/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"), url("https://use.typekit.net/af/43d0ee/00000000000000007735c655/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
-  font-display: auto;
-  font-style: italic;
-  font-weight: 700;
-  font-stretch: normal;
-}
-@font-face {
-  font-family: "gaultier-ilc";
-  src: url("https://use.typekit.net/af/f8c823/00000000000000007735c657/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("woff2"), url("https://use.typekit.net/af/f8c823/00000000000000007735c657/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("woff"), url("https://use.typekit.net/af/f8c823/00000000000000007735c657/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("opentype");
-  font-display: auto;
-  font-style: normal;
-  font-weight: 800;
-  font-stretch: normal;
-}
-@font-face {
-  font-family: "gaultier-ilc";
-  src: url("https://use.typekit.net/af/6f2df7/00000000000000007735c658/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i8&v=3") format("woff2"), url("https://use.typekit.net/af/6f2df7/00000000000000007735c658/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i8&v=3") format("woff"), url("https://use.typekit.net/af/6f2df7/00000000000000007735c658/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i8&v=3") format("opentype");
-  font-display: auto;
-  font-style: italic;
-  font-weight: 800;
-  font-stretch: normal;
-}
-@font-face {
-  font-family: "gaultier-ilc";
-  src: url("https://use.typekit.net/af/6e9d31/00000000000000007735c659/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("woff2"), url("https://use.typekit.net/af/6e9d31/00000000000000007735c659/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("woff"), url("https://use.typekit.net/af/6e9d31/00000000000000007735c659/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("opentype");
-  font-display: auto;
-  font-style: normal;
-  font-weight: 900;
-  font-stretch: normal;
-}
-@font-face {
-  font-family: "gaultier-ilc";
-  src: url("https://use.typekit.net/af/9e0654/00000000000000007735c65a/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i9&v=3") format("woff2"), url("https://use.typekit.net/af/9e0654/00000000000000007735c65a/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i9&v=3") format("woff"), url("https://use.typekit.net/af/9e0654/00000000000000007735c65a/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i9&v=3") format("opentype");
-  font-display: auto;
-  font-style: italic;
-  font-weight: 900;
-  font-stretch: normal;
-}
-@font-face {
   font-family: "hypatia-BDL";
   src: url("https://use.typekit.net/af/bfd88d/00000000000000003b9ada99/27/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("woff2"), url("https://use.typekit.net/af/bfd88d/00000000000000003b9ada99/27/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("woff"), url("https://use.typekit.net/af/bfd88d/00000000000000003b9ada99/27/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n9&v=3") format("opentype");
   font-display: auto;
@@ -1942,354 +1846,158 @@ th {
   unicode-range: u+28-29, u+5b, u+5d;
 }
 @font-face {
-  font-family: "gaultier-jpn-BDL";
+  font-family: "gaultier-jpn-ILC";
   font-display: auto;
   font-style: normal;
   font-weight: 900;
   font-stretch: normal;
-  size-adjust: 109%;
-  ascent-override: 120%;
+  size-adjust: 114%;
+  ascent-override: 110%;
+  unicode-range: u+00-27, u+30-5a, u+5c, u+5e-1fff;
   src: url("https://use.typekit.net/af/f8c823/00000000000000007735c657/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("woff2"), url("https://use.typekit.net/af/f8c823/00000000000000007735c657/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("woff"), url("https://use.typekit.net/af/f8c823/00000000000000007735c657/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("opentype");
 }
 @font-face {
-  font-family: "gaultier-jpn-BDL";
-  src: url("https://use.typekit.net/af/9982e7/00000000000000007735c645/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff2"), url("https://use.typekit.net/af/9982e7/00000000000000007735c645/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff"), url("https://use.typekit.net/af/9982e7/00000000000000007735c645/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("opentype");
+  font-family: "gaultier-jpn-ILC";
   font-display: auto;
-  font-style: normal;
+  font-style: italic;
   font-weight: 900;
   font-stretch: normal;
-  font-feature-settings: "case";
-  -webkit-font-feature-settings: "case";
-  -moz-font-feature-settings: "case";
-  unicode-range: u+2c-2e;
-  unicode-range: U+28-29, u+5b, u+5d;
-  size-adjust: 109%;
-  ascent-override: 120%;
-}
-@font-face {
-  font-family: "gaultier-jpn-BDL";
+  size-adjust: 114%;
+  ascent-override: 110%;
+  unicode-range: u+00-27, u+30-5a, u+5c, u+5e-1fff;
   src: url("https://use.typekit.net/af/9e0654/00000000000000007735c65a/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i9&v=3") format("woff2"), url("https://use.typekit.net/af/9e0654/00000000000000007735c65a/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i9&v=3") format("woff"), url("https://use.typekit.net/af/9e0654/00000000000000007735c65a/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i9&v=3") format("opentype");
-  font-display: auto;
-  font-style: italic;
-  font-weight: 900;
-  font-stretch: normal;
-  size-adjust: 109%;
-  ascent-override: 120%;
 }
 @font-face {
-  font-family: "gaultier-jpn-BDL";
-  src: url("https://use.typekit.net/af/b9586e/00000000000000007735c64a/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") format("woff2"), url("https://use.typekit.net/af/b9586e/00000000000000007735c64a/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") format("woff"), url("https://use.typekit.net/af/b9586e/00000000000000007735c64a/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") format("opentype");
-  font-display: auto;
-  font-style: italic;
-  font-weight: 900;
-  font-stretch: normal;
-  font-feature-settings: "case";
-  -webkit-font-feature-settings: "case";
-  -moz-font-feature-settings: "case";
-  unicode-range: u+2c-2e;
-  unicode-range: u+28-29, u+5b, u+5d;
-  size-adjust: 109%;
-  ascent-override: 120%;
-}
-@font-face {
-  font-family: "gaultier-jpn-BDL";
+  font-family: "gaultier-jpn-ILC";
   font-display: auto;
   font-style: normal;
   font-weight: 800;
   font-stretch: normal;
-  size-adjust: 109%;
-  ascent-override: 120%;
+  size-adjust: 114%;
+  ascent-override: 110%;
+  unicode-range: u+00-27, u+30-5a, u+5c, u+5e-1fff;
   src: url("https://use.typekit.net/af/f8c823/00000000000000007735c657/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("woff2"), url("https://use.typekit.net/af/f8c823/00000000000000007735c657/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("woff"), url("https://use.typekit.net/af/f8c823/00000000000000007735c657/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n8&v=3") format("opentype");
 }
 @font-face {
-  font-family: "gaultier-jpn-BDL";
-  src: url("https://use.typekit.net/af/9982e7/00000000000000007735c645/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff2"), url("https://use.typekit.net/af/9982e7/00000000000000007735c645/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff"), url("https://use.typekit.net/af/9982e7/00000000000000007735c645/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("opentype");
+  font-family: "gaultier-jpn-ILC";
   font-display: auto;
-  font-style: normal;
+  font-style: italic;
   font-weight: 800;
   font-stretch: normal;
-  font-feature-settings: "case";
-  -webkit-font-feature-settings: "case";
-  -moz-font-feature-settings: "case";
-  unicode-range: u+2c-2e;
-  unicode-range: U+28-29, u+5b, u+5d;
-  size-adjust: 109%;
-  ascent-override: 120%;
-}
-@font-face {
-  font-family: "gaultier-jpn-BDL";
+  size-adjust: 114%;
+  ascent-override: 110%;
+  unicode-range: u+00-27, u+30-5a, u+5c, u+5e-1fff;
   src: url("https://use.typekit.net/af/6f2df7/00000000000000007735c658/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i8&v=3") format("woff2"), url("https://use.typekit.net/af/6f2df7/00000000000000007735c658/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i8&v=3") format("woff"), url("https://use.typekit.net/af/6f2df7/00000000000000007735c658/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i8&v=3") format("opentype");
-  font-display: auto;
-  font-style: italic;
-  font-weight: 800;
-  font-stretch: normal;
-  size-adjust: 109%;
-  ascent-override: 120%;
 }
 @font-face {
-  font-family: "gaultier-jpn-BDL";
-  src: url("https://use.typekit.net/af/b9586e/00000000000000007735c64a/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") format("woff2"), url("https://use.typekit.net/af/b9586e/00000000000000007735c64a/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") format("woff"), url("https://use.typekit.net/af/b9586e/00000000000000007735c64a/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") format("opentype");
-  font-display: auto;
-  font-style: italic;
-  font-weight: 800;
-  font-stretch: normal;
-  font-feature-settings: "case";
-  -webkit-font-feature-settings: "case";
-  -moz-font-feature-settings: "case";
-  unicode-range: u+2c-2e;
-  unicode-range: u+28-29, u+5b, u+5d;
-  size-adjust: 109%;
-  ascent-override: 120%;
-}
-@font-face {
-  font-family: "gaultier-jpn-BDL";
+  font-family: "gaultier-jpn-ILC";
   font-display: auto;
   font-style: normal;
   font-weight: 700;
   font-stretch: normal;
-  size-adjust: 109%;
-  ascent-override: 120%;
+  size-adjust: 114%;
+  ascent-override: 110%;
+  unicode-range: u+00-27, u+30-5a, u+5c, u+5e-1fff;
   src: url("https://use.typekit.net/af/b72137/00000000000000007735c653/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff2"), url("https://use.typekit.net/af/b72137/00000000000000007735c653/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("woff"), url("https://use.typekit.net/af/b72137/00000000000000007735c653/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n7&v=3") format("opentype");
 }
 @font-face {
-  font-family: "gaultier-jpn-BDL";
-  src: url("https://use.typekit.net/af/eda481/00000000000000007735c63f/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/eda481/00000000000000007735c63f/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/eda481/00000000000000007735c63f/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+  font-family: "gaultier-jpn-ILC";
   font-display: auto;
-  font-style: normal;
+  font-style: italic;
   font-weight: 700;
   font-stretch: normal;
-  font-feature-settings: "case";
-  -webkit-font-feature-settings: "case";
-  -moz-font-feature-settings: "case";
-  unicode-range: u+2c-2e;
-  unicode-range: U+28-29, u+5b, u+5d;
-  size-adjust: 109%;
-  ascent-override: 120%;
-}
-@font-face {
-  font-family: "gaultier-jpn-BDL";
+  size-adjust: 114%;
+  ascent-override: 110%;
+  unicode-range: u+00-27, u+30-5a, u+5c, u+5e-1fff;
   src: url("https://use.typekit.net/af/43d0ee/00000000000000007735c655/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff2"), url("https://use.typekit.net/af/43d0ee/00000000000000007735c655/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("woff"), url("https://use.typekit.net/af/43d0ee/00000000000000007735c655/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i7&v=3") format("opentype");
-  font-display: auto;
-  font-style: italic;
-  font-weight: 700;
-  font-stretch: normal;
-  size-adjust: 109%;
-  ascent-override: 120%;
 }
 @font-face {
-  font-family: "gaultier-jpn-BDL";
-  src: url("https://use.typekit.net/af/c13e1b/00000000000000007735c642/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"), url("https://use.typekit.net/af/c13e1b/00000000000000007735c642/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"), url("https://use.typekit.net/af/c13e1b/00000000000000007735c642/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
-  font-display: auto;
-  font-style: italic;
-  font-weight: 700;
-  font-stretch: normal;
-  font-feature-settings: "case";
-  -webkit-font-feature-settings: "case";
-  -moz-font-feature-settings: "case";
-  unicode-range: u+2c-2e;
-  unicode-range: u+28-29, u+5b, u+5d;
-  size-adjust: 109%;
-  ascent-override: 120%;
-}
-@font-face {
-  font-family: "gaultier-jpn-BDL";
+  font-family: "gaultier-jpn-ILC";
   font-display: auto;
   font-style: normal;
   font-weight: 600;
   font-stretch: normal;
-  size-adjust: 109%;
-  ascent-override: 120%;
+  size-adjust: 114%;
+  ascent-override: 110%;
+  unicode-range: u+00-27, u+30-5a, u+5c, u+5e-1fff;
   src: url("https://use.typekit.net/af/f9f87d/00000000000000007735c64e/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff2"), url("https://use.typekit.net/af/f9f87d/00000000000000007735c64e/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("woff"), url("https://use.typekit.net/af/f9f87d/00000000000000007735c64e/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n6&v=3") format("opentype");
 }
 @font-face {
-  font-family: "gaultier-jpn-BDL";
-  src: url("https://use.typekit.net/af/eda481/00000000000000007735c63f/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/eda481/00000000000000007735c63f/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/eda481/00000000000000007735c63f/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
+  font-family: "gaultier-jpn-ILC";
   font-display: auto;
-  font-style: normal;
+  font-style: italic;
   font-weight: 600;
   font-stretch: normal;
-  font-feature-settings: "case";
-  -webkit-font-feature-settings: "case";
-  -moz-font-feature-settings: "case";
-  unicode-range: u+2c-2e;
-  unicode-range: U+28-29, u+5b, u+5d;
-  size-adjust: 109%;
-  ascent-override: 120%;
-}
-@font-face {
-  font-family: "gaultier-jpn-BDL";
+  size-adjust: 114%;
+  ascent-override: 110%;
+  unicode-range: u+00-27, u+30-5a, u+5c, u+5e-1fff;
   src: url("https://use.typekit.net/af/995506/00000000000000007735c651/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3") format("woff2"), url("https://use.typekit.net/af/995506/00000000000000007735c651/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3") format("woff"), url("https://use.typekit.net/af/995506/00000000000000007735c651/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i6&v=3") format("opentype");
-  font-display: auto;
-  font-style: italic;
-  font-weight: 600;
-  font-stretch: normal;
-  size-adjust: 109%;
-  ascent-override: 120%;
 }
 @font-face {
-  font-family: "gaultier-jpn-BDL";
-  src: url("https://use.typekit.net/af/c13e1b/00000000000000007735c642/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"), url("https://use.typekit.net/af/c13e1b/00000000000000007735c642/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"), url("https://use.typekit.net/af/c13e1b/00000000000000007735c642/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
-  font-display: auto;
-  font-style: italic;
-  font-weight: 600;
-  font-stretch: normal;
-  font-feature-settings: "case";
-  -webkit-font-feature-settings: "case";
-  -moz-font-feature-settings: "case";
-  unicode-range: u+2c-2e;
-  unicode-range: u+28-29, u+5b, u+5d;
-  size-adjust: 109%;
-  ascent-override: 120%;
-}
-@font-face {
-  font-family: "gaultier-jpn-BDL";
+  font-family: "gaultier-jpn-ILC";
   font-display: auto;
   font-style: normal;
   font-weight: 500;
   font-stretch: normal;
-  size-adjust: 109%;
-  ascent-override: 120%;
-  src: url("https://use.typekit.net/af/9982e7/00000000000000007735c645/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff2"), url("https://use.typekit.net/af/9982e7/00000000000000007735c645/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("woff"), url("https://use.typekit.net/af/9982e7/00000000000000007735c645/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n5&v=3") format("opentype");
-}
-@font-face {
-  font-family: "gaultier-jpn-BDL";
-  src: url("https://use.typekit.net/af/e8b33e/00000000000000007735c64f/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff2"), url("https://use.typekit.net/af/e8b33e/00000000000000007735c64f/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff"), url("https://use.typekit.net/af/e8b33e/00000000000000007735c64f/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("opentype");
-  font-display: auto;
-  font-style: normal;
-  font-weight: 500;
-  font-stretch: normal;
-  font-feature-settings: "case";
-  -webkit-font-feature-settings: "case";
-  -moz-font-feature-settings: "case";
-  unicode-range: u+2c-2e;
-  unicode-range: U+28-29, u+5b, u+5d;
-  size-adjust: 109%;
-  ascent-override: 120%;
-}
-@font-face {
-  font-family: "gaultier-jpn-BDL";
-  src: url("https://use.typekit.net/af/b9586e/00000000000000007735c64a/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") format("woff2"), url("https://use.typekit.net/af/b9586e/00000000000000007735c64a/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") format("woff"), url("https://use.typekit.net/af/b9586e/00000000000000007735c64a/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") format("opentype");
-  font-display: auto;
-  font-style: italic;
-  font-weight: 500;
-  font-stretch: normal;
-  size-adjust: 109%;
-  ascent-override: 120%;
-}
-@font-face {
-  font-family: "gaultier-jpn-BDL";
-  src: url("https://use.typekit.net/af/f603ed/00000000000000007735c652/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff2"), url("https://use.typekit.net/af/f603ed/00000000000000007735c652/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff"), url("https://use.typekit.net/af/f603ed/00000000000000007735c652/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("opentype");
-  font-display: auto;
-  font-style: italic;
-  font-weight: 500;
-  font-stretch: normal;
-  font-feature-settings: "case";
-  -webkit-font-feature-settings: "case";
-  -moz-font-feature-settings: "case";
-  unicode-range: u+2c-2e;
-  unicode-range: u+28-29, u+5b, u+5d;
-  size-adjust: 109%;
-  ascent-override: 120%;
-}
-@font-face {
-  font-family: "gaultier-jpn-BDL";
-  font-display: auto;
-  font-style: normal;
-  font-weight: 400;
-  font-stretch: normal;
-  size-adjust: 109%;
-  ascent-override: 120%;
+  size-adjust: 114%;
+  ascent-override: 110%;
+  unicode-range: u+00-27, u+30-5a, u+5c, u+5e-1fff;
   src: url("https://use.typekit.net/af/eda481/00000000000000007735c63f/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/eda481/00000000000000007735c63f/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/eda481/00000000000000007735c63f/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
 }
 @font-face {
-  font-family: "gaultier-jpn-BDL";
-  src: url("https://use.typekit.net/af/e8b33e/00000000000000007735c64f/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff2"), url("https://use.typekit.net/af/e8b33e/00000000000000007735c64f/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff"), url("https://use.typekit.net/af/e8b33e/00000000000000007735c64f/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("opentype");
+  font-family: "gaultier-jpn-ILC";
+  font-display: auto;
+  font-style: italic;
+  font-weight: 500;
+  font-stretch: normal;
+  size-adjust: 114%;
+  ascent-override: 110%;
+  unicode-range: u+00-27, u+30-5a, u+5c, u+5e-1fff;
+  src: url("https://use.typekit.net/af/b9586e/00000000000000007735c64a/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") format("woff2"), url("https://use.typekit.net/af/b9586e/00000000000000007735c64a/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") format("woff"), url("https://use.typekit.net/af/b9586e/00000000000000007735c64a/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i5&v=3") format("opentype");
+}
+@font-face {
+  font-family: "gaultier-jpn-ILC";
   font-display: auto;
   font-style: normal;
   font-weight: 400;
   font-stretch: normal;
-  font-feature-settings: "case";
-  -webkit-font-feature-settings: "case";
-  -moz-font-feature-settings: "case";
-  unicode-range: u+2c-2e;
-  unicode-range: U+28-29, u+5b, u+5d;
-  size-adjust: 109%;
-  ascent-override: 120%;
+  size-adjust: 114%;
+  ascent-override: 110%;
+  unicode-range: u+00-27, u+30-5a, u+5c, u+5e-1fff;
+  src: url("https://use.typekit.net/af/eda481/00000000000000007735c63f/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff2"), url("https://use.typekit.net/af/eda481/00000000000000007735c63f/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("woff"), url("https://use.typekit.net/af/eda481/00000000000000007735c63f/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n4&v=3") format("opentype");
 }
 @font-face {
-  font-family: "gaultier-jpn-BDL";
+  font-family: "gaultier-jpn-ILC";
+  font-display: auto;
+  font-style: italic;
+  font-weight: 400;
+  font-stretch: normal;
+  size-adjust: 114%;
+  ascent-override: 110%;
+  unicode-range: u+00-27, u+30-5a, u+5c, u+5e-1fff;
   src: url("https://use.typekit.net/af/c13e1b/00000000000000007735c642/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff2"), url("https://use.typekit.net/af/c13e1b/00000000000000007735c642/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("woff"), url("https://use.typekit.net/af/c13e1b/00000000000000007735c642/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i4&v=3") format("opentype");
-  font-display: auto;
-  font-style: italic;
-  font-weight: 400;
-  font-stretch: normal;
-  size-adjust: 109%;
-  ascent-override: 120%;
 }
 @font-face {
-  font-family: "gaultier-jpn-BDL";
-  src: url("https://use.typekit.net/af/f603ed/00000000000000007735c652/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff2"), url("https://use.typekit.net/af/f603ed/00000000000000007735c652/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff"), url("https://use.typekit.net/af/f603ed/00000000000000007735c652/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("opentype");
-  font-display: auto;
-  font-style: italic;
-  font-weight: 400;
-  font-stretch: normal;
-  font-feature-settings: "case";
-  -webkit-font-feature-settings: "case";
-  -moz-font-feature-settings: "case";
-  unicode-range: u+2c-2e;
-  unicode-range: u+28-29, u+5b, u+5d;
-  size-adjust: 109%;
-  ascent-override: 120%;
-}
-@font-face {
-  font-family: "gaultier-jpn-BDL";
+  font-family: "gaultier-jpn-ILC";
   font-display: auto;
   font-style: normal;
   font-weight: 300;
   font-stretch: normal;
-  size-adjust: 109%;
-  ascent-override: 120%;
+  size-adjust: 114%;
+  ascent-override: 110%;
+  unicode-range: u+00-27, u+30-5a, u+5c, u+5e-1fff;
   src: url("https://use.typekit.net/af/e8b33e/00000000000000007735c64f/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff2"), url("https://use.typekit.net/af/e8b33e/00000000000000007735c64f/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff"), url("https://use.typekit.net/af/e8b33e/00000000000000007735c64f/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("opentype");
 }
 @font-face {
-  font-family: "gaultier-jpn-BDL";
-  src: url("https://use.typekit.net/af/e8b33e/00000000000000007735c64f/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff2"), url("https://use.typekit.net/af/e8b33e/00000000000000007735c64f/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("woff"), url("https://use.typekit.net/af/e8b33e/00000000000000007735c64f/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=n3&v=3") format("opentype");
-  font-display: auto;
-  font-style: normal;
-  font-weight: 300;
-  font-stretch: normal;
-  font-feature-settings: "case";
-  -webkit-font-feature-settings: "case";
-  -moz-font-feature-settings: "case";
-  unicode-range: u+2c-2e;
-  unicode-range: U+28-29, u+5b, u+5d;
-  size-adjust: 109%;
-  ascent-override: 120%;
-}
-@font-face {
-  font-family: "gaultier-jpn-BDL";
-  src: url("https://use.typekit.net/af/f603ed/00000000000000007735c652/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff2"), url("https://use.typekit.net/af/f603ed/00000000000000007735c652/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff"), url("https://use.typekit.net/af/f603ed/00000000000000007735c652/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("opentype");
+  font-family: "gaultier-jpn-ILC";
   font-display: auto;
   font-style: italic;
   font-weight: 300;
   font-stretch: normal;
-  size-adjust: 109%;
-  ascent-override: 120%;
-}
-@font-face {
-  font-family: "gaultier-jpn-BDL";
+  size-adjust: 114%;
+  ascent-override: 110%;
+  unicode-range: u+00-27, u+30-5a, u+5c, u+5e-1fff;
   src: url("https://use.typekit.net/af/f603ed/00000000000000007735c652/30/l?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff2"), url("https://use.typekit.net/af/f603ed/00000000000000007735c652/30/d?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("woff"), url("https://use.typekit.net/af/f603ed/00000000000000007735c652/30/a?primer=7cdcb44be4a7db8877ffa5c0007b8dd865b3bbc383831fe2ea177f62257a9191&fvd=i3&v=3") format("opentype");
-  font-display: auto;
-  font-style: italic;
-  font-weight: 300;
-  font-stretch: normal;
-  font-feature-settings: "case";
-  -webkit-font-feature-settings: "case";
-  -moz-font-feature-settings: "case";
-  unicode-range: u+2c-2e;
-  unicode-range: u+28-29, u+5b, u+5d;
-  size-adjust: 109%;
-  ascent-override: 120%;
 }
 @font-face {
   font-family: "lato-ilc";
@@ -3285,11 +2993,11 @@ th {
 
 html {
   scroll-behavior: smooth;
-  font-size: 16.6666666667px;
+  font-size: 16px;
 }
 @media screen and (max-width: 559px) {
   html {
-    font-size: 14.5833333333px;
+    font-size: 14px;
   }
 }
 
@@ -3378,7 +3086,7 @@ body.body-o-col {
 .card h2 {
   width: 100%;
   position: relative;
-  font-family: "gaultier-jpn-BDL", "kozuka-gothic-pr6n", sans-serif;
+  font-family: "gaultier-jpn-ILC", "ryo-gothic-plusn", sans-serif;
   font-weight: 900;
   font-size: 27px;
   font-variant-numeric: lining-nums proportional-nums;
@@ -3404,7 +3112,7 @@ body.body-o-col {
   margin-bottom: auto;
 }
 .card .ovv-area .ovv {
-  font-family: "gaultier-jpn-BDL", "kozuka-gothic-pr6n", sans-serif;
+  font-family: "gaultier-jpn-ILC", "kozuka-gothic-pr6n", sans-serif;
   font-size: 15px;
   font-variant-numeric: lining-nums proportional-nums;
   display: flex;
@@ -3470,7 +3178,7 @@ body.body-o-col {
   }
 }
 .card div.miscs p {
-  font-family: "gaultier-jpn-BDL", sans-serif;
+  font-family: "gaultier-jpn-ILC", sans-serif;
   font-style: italic;
   font-size: 12px;
   margin: auto 0 0 auto;
@@ -3515,7 +3223,7 @@ body.body-o-col {
   }
 }
 #first-view .ovv-title h1 {
-  font-family: "gaultier-jpn-BDL", "ryo-gothic-plusn", "kozuka-gothic-pr6n", sans-serif;
+  font-family: "gaultier-jpn-ILC", "ryo-gothic-plusn", sans-serif;
   font-size: clamp(72px, -6px + 8.13vw, 150px);
   font-weight: 800;
   font-feature-settings: "hkna", "palt";
@@ -3529,7 +3237,7 @@ body.body-o-col {
 @media screen and (max-width: 559px) {
   #first-view .ovv-title h1 {
     font-size: calc((100vw - 28px) / 8 / 0.96);
-    text-align: left;
+    text-align: justify;
     word-break: normal;
     letter-spacing: -0.04em;
     line-height: 1.05em;
@@ -3539,7 +3247,7 @@ body.body-o-col {
   }
 }
 #first-view .ovv-date {
-  font-family: "gaultier-jpn-BDL", "kozuka-gothic-pr6n", sans-serif;
+  font-family: "gaultier-jpn-ILC", "kozuka-gothic-pr6n", sans-serif;
   font-size: clamp(14px, 10px + 0.4167vw, 18px);
   font-weight: 500;
   display: flex;
@@ -3599,8 +3307,7 @@ body.body-o-col {
   width: 60%;
   margin: 30px 0 0 auto;
   padding: 0 45px 0 0;
-  transform: scaleY(0.96);
-  transform-origin: top;
+  font-variant-numeric: lining-nums proportional-nums;
 }
 @media screen and (max-width: 559px) {
   #content-area {
@@ -3609,29 +3316,29 @@ body.body-o-col {
     padding: 0 16px 0 0;
   }
 }
-#content-area div:first-child h3:first-child,
-#content-area div:first-child h2:first-child,
-#content-area div:first-child p:first-child,
-#content-area div:first-child ol:first-child,
-#content-area div:first-child li:first-child {
+#content-area > div:first-child > h3:first-child,
+#content-area > div:first-child > h2:first-child,
+#content-area > div:first-child > p:first-child,
+#content-area > div:first-child > ol:first-child,
+#content-area > div:first-child > li:first-child {
   margin-top: 0;
 }
-#content-area li, #content-area .epipara, #content-area .para {
-  font-family: "gaultier-jpn-BDL", "dnp-shuei-gothic-gin-std", sans-serif;
+#content-area li, #content-area p {
+  font-family: "gaultier-jpn-ILC", "dnp-shuei-gothic-gin-std", sans-serif;
   font-weight: 500;
   line-height: 2;
   font-variant-ligatures: normal;
-  font-variant-numeric: lining-nums tabular-nums;
+  font-variant-numeric: tabular-nums;
   margin-top: 1.5rem;
 }
-#content-area li::before, #content-area .epipara::before, #content-area .para::before {
+#content-area li::before, #content-area p::before {
   display: block;
   width: 0;
   height: 0;
   margin-top: calc((1 - 2) * 0.5em);
   content: "";
 }
-#content-area li::after, #content-area .epipara::after, #content-area .para::after {
+#content-area li::after, #content-area p::after {
   display: block;
   width: 0;
   height: 0;
@@ -3639,7 +3346,7 @@ body.body-o-col {
   content: "";
 }
 @media screen and (max-width: 559px) {
-  #content-area li, #content-area .epipara, #content-area .para {
+  #content-area li, #content-area p {
     -webkit-hyphens: auto;
             hyphens: auto;
     font-feature-settings: "palt";
@@ -3647,66 +3354,61 @@ body.body-o-col {
     text-justify: inter-character;
   }
 }
-#content-area .epipara {
-  margin-top: 3.6rem;
+#content-area p.para:empty + ol {
+  margin-top: -3.5rem;
 }
-#content-area .epipara + .epipara {
-  margin-top: 1.2rem;
+#content-area .epiparas {
+  margin-top: 3.6em;
 }
 #content-area li::marker {
-  font-weight: 700;
+  font-weight: 600;
   font-variant-ligatures: normal;
-  font-variant-numeric: lining-nums proportional-nums;
 }
-#content-area li:empty {
-  margin-bottom: -2.9rem;
-}
-#content-area .para-ol {
+#content-area ol.para-ol {
   list-style-position: inside;
 }
-#content-area .para-ol::before {
-  display: block;
-  width: 0;
-  height: 0;
-  margin-top: calc((1 - 2) * 0.5em);
-  content: "";
+#content-area ol.para-ol > li::before {
+  content: none;
 }
-#content-area .para-ol .para-li::before {
+#content-area ol.para-ol > li > .para {
+  display: inline;
+  margin-left: 0.75em;
+}
+#content-area ol.para-ol > li > .para::before {
   all: initial;
-  display: inline-block;
-  content: " ";
 }
-#content-area ol[class^=subpara] {
+#content-area ol.para-ol > li > .para.block {
+  display: block;
+  margin-left: 0;
+}
+#content-area ol[class^=subpara],
+#content-area ul[class^=subpara] {
   list-style-position: outside;
-}
-#content-area ol[class^=subpara] li[class^=subpara] {
-  padding-left: 0.5em;
-}
-#content-area .subpara-ol-00 {
-  padding-left: 3em;
-}
-@media screen and (max-width: 559px) {
-  #content-area .subpara-ol-00 {
-    padding-left: 2em;
-  }
-}
-#content-area .subpara-ol-01,
-#content-area .subpara-ol-02 {
   padding-left: 2em;
 }
 @media screen and (max-width: 559px) {
-  #content-area .subpara-ol-01,
-  #content-area .subpara-ol-02 {
+  #content-area ol[class^=subpara],
+  #content-area ul[class^=subpara] {
     padding-left: 1.5em;
   }
 }
+#content-area ol[class^=subpara] li,
+#content-area ul[class^=subpara] li {
+  padding-left: 0.5em;
+  list-style: "-";
+}
+#content-area ol.subpara-list-level-00 {
+  padding-left: 3em;
+}
+@media screen and (max-width: 559px) {
+  #content-area ol.subpara-list-level-00 {
+    padding-left: 2em;
+  }
+}
 #content-area h3, #content-area h2 {
-  font-family: "gaultier-jpn-BDL", "kozuka-gothic-pr6n", sans-serif;
+  font-family: "gaultier-jpn-ILC", "kozuka-gothic-pr6n", sans-serif;
   font-weight: 800;
   line-height: 1em;
-  font-variant-ligatures: normal;
-  font-variant-numeric: lining-nums proportional-nums;
-  position: relative;
 }
 #content-area h2 {
   font-size: 2rem;
@@ -3714,14 +3416,28 @@ body.body-o-col {
   text-transform: uppercase;
   margin-top: 3.6rem;
 }
+#content-area h2::before {
+  display: block;
+  width: 0;
+  height: 0;
+  margin-top: calc((1 - 1.2) * 0.5em);
+  content: "";
+}
+#content-area h2::after {
+  display: block;
+  width: 0;
+  height: 0;
+  margin-bottom: calc((1 - 1.2) * 0.5em);
+  content: "";
+}
 #content-area h2 .h2-title {
   font-family: "dnp-shuei-gothic-kin-std", sans-serif;
   font-weight: 400;
   font-size: 0.75em;
   font-style: normal;
+  font-feature-settings: "palt";
   text-transform: none;
-  font-variant-caps: small-caps;
-  letter-spacing: 0.025em;
+  letter-spacing: 0.05em;
 }
 #content-area h2 + h2 {
   margin-top: 2.4rem;
@@ -3733,11 +3449,12 @@ body.body-o-col {
   margin-top: 2.4rem;
 }
 #content-area h3 .h3-title {
-  font-family: "dnp-shuei-gothic-gin-std", sans-serif;
+  font-family: "dnp-shuei-gothic-kin-std", sans-serif;
   font-weight: 500;
   font-size: 1rem;
   font-style: normal;
-  letter-spacing: 0.05em;
+  font-feature-settings: "palt";
+  letter-spacing: 0.075em;
   display: inline-block;
 }
 #content-area h3 .h3-title::before {
@@ -3756,18 +3473,77 @@ body.body-o-col {
   font-variant-numeric: lining-nums;
 }
 
+ruby[data-ruby] {
+  position: relative;
+}
+ruby[data-ruby]::before {
+  content: attr(data-ruby);
+  position: absolute;
+  top: -0.75em;
+  left: 0;
+  margin: auto;
+  height: 0.5em;
+  width: 100%;
+  font-size: 0.5em;
+  text-align: center;
+  font-family: "dnp-shuei-gothic-kin-std";
+  font-weight: 600;
+  text-transform: full-size-kana;
+  font-feature-settings: "ruby";
+}
+ruby[data-ruby] rt {
+  display: none;
+}
+
+span.kenten {
+  position: relative;
+}
+span.kenten::before {
+  content: "﹅";
+  position: absolute;
+  top: -0.6em;
+  left: 0;
+  margin: auto;
+  width: 100%;
+  font-size: 0.45em;
+  text-align: center;
+  font-weight: 600;
+}
+
+span.noteHere {
+  font-size: 0.6666666667em;
+  position: relative;
+}
+span.noteHere span.note {
+  display: block;
+  position: absolute;
+  font-size: 0.75rem;
+  top: 1em;
+  width: -moz-max-content;
+  width: max-content;
+  display: none;
+}
+span.noteHere:hover span.note {
+  display: block;
+}
+
 #table-area {
   display: flex;
   flex-direction: column-reverse;
   justify-content: flex-start;
   height: 100vh;
   width: 30%;
-  padding: 60px 0 30px 0;
+  padding: 60px 0 15px 0;
   position: fixed;
   top: 0;
   left: 60px;
   gap: 12px;
   transition: 0.3s ease-in-out;
+}
+@media screen and (max-width: 559px) {
+  #table-area {
+    all: initial;
+  }
 }
 
 #title-area {
@@ -3788,7 +3564,7 @@ body.body-o-col {
   }
 }
 #title-area #ta-title-short {
-  width: 120px;
+  width: 90px;
   height: 100vh;
   position: fixed;
   top: 0;
@@ -3809,14 +3585,15 @@ body.body-o-col {
   height: 100%;
   writing-mode: vertical-rl;
   text-align: end;
-  font-size: 120px;
+  font-family: "gaultier-jpn-ILC", sans-serif;
+  font-size: 90px;
   font-weight: 800;
-  font-family: "gaultier-jpn-BDL", sans-serif;
+  font-style: italic;
   font-variant-numeric: lining-nums proportional-nums;
   color: transparent;
   -webkit-text-stroke: 0.5px #333132;
   line-height: 1em;
-  letter-spacing: 0.05em;
+  letter-spacing: -0.024em;
 }
 @media screen and (max-width: 559px) {
   #title-area #ta-title-short h1 {
@@ -3829,7 +3606,7 @@ body.body-o-col {
 }
 #title-area #ta-title-full {
   font-size: 24px;
-  font-family: "gaultier-jpn-BDL", "kozuka-gothic-pr6n", sans-serif;
+  font-family: "gaultier-jpn-ILC", "ryo-gothic-plusn", sans-serif;
   font-weight: 900;
   font-variant-numeric: lining-nums proportional-nums;
   height: -moz-fit-content;
@@ -3839,10 +3616,16 @@ body.body-o-col {
 @media screen and (max-width: 559px) {
   #title-area #ta-title-full {
     font-size: 12px;
-    font-family: "gaultier-jpn-BDL", "dnp-shuei-gothic-gin-std", sans-serif;
+    font-family: "gaultier-jpn-ILC", "dnp-shuei-gothic-gin-std", sans-serif;
     writing-mode: vertical-rl;
-    margin-left: 4px;
+    text-align: end;
     font-weight: 600;
+    line-height: 1.2em;
+    width: 48px;
+    padding-left: 4px;
+    display: flex;
+    align-items: center;
+    font-feature-settings: "vpal";
   }
 }
 
@@ -3861,10 +3644,18 @@ body.body-o-col {
   overflow: scroll;
   color: #333132;
   z-index: 100;
+  overscroll-behavior: contain;
 }
 @media screen and (max-width: 559px) {
   #table {
-    display: none;
+    height: 100%;
+    width: calc(100% - 48px);
+    background-color: rgba(255, 250, 249, 0.75);
+    -webkit-backdrop-filter: blur(1.2px);
+            backdrop-filter: blur(1.2px);
+    position: fixed;
+    top: 0;
+    right: 0;
   }
 }
 #table ol ol {
@@ -3874,11 +3665,32 @@ body.body-o-col {
 #table ol li.h21,
 #table ol li.h22 {
   font-size: clamp(14px, 10px + 0.4167vw, 18px);
-  font-family: "gaultier-jpn-BDL", "kozuka-gothic-pr6n", sans-serif;
+  font-family: "gaultier-jpn-ILC", "kozuka-gothic-pr6n", sans-serif;
   font-weight: 700;
   font-variant-numeric: lining-nums proportional-nums;
   line-height: 1.5em;
   margin-top: 0.3em;
+}
+@media screen and (max-width: 559px) {
+  #table ol li.h3, #table ol li.h20,
+  #table ol li.h21,
+  #table ol li.h22 {
+    font-size: 12px;
+  }
+}
+#table ol li.h3 a, #table ol li.h20 a,
+#table ol li.h21 a,
+#table ol li.h22 a {
+  background-color: rgba(255, 250, 249, 0.15);
+  -webkit-backdrop-filter: blur(1.2px);
+          backdrop-filter: blur(1.2px);
+}
+@media screen and (max-width: 559px) {
+  #table ol li.h3 a, #table ol li.h20 a,
+  #table ol li.h21 a,
+  #table ol li.h22 a {
+    all: unset;
+  }
 }
 #table ol li.h3 a:hover, #table ol li.h20 a:hover,
 #table ol li.h21 a:hover,
@@ -3890,7 +3702,7 @@ body.body-o-col {
 #table ol li.h22 span {
   display: inline-block;
   font-family: "dnp-shuei-gothic-gin-std", sans-serif;
-  font-size: 15px;
+  font-size: 0.8em;
   font-weight: 500;
 }
 #table ol li.h3 span::before, #table ol li.h20 span::before,
@@ -3911,6 +3723,88 @@ body.body-o-col {
   display: inline-block;
   margin-right: 1em;
   line-height: 2em;
+  font-weight: 500;
+}
+
+#toc-btn {
+  display: none;
+}
+@media screen and (max-width: 559px) {
+  #toc-btn {
+    position: fixed;
+    bottom: 12px;
+    right: 12px;
+    z-index: 101;
+    width: 54px;
+    height: 54px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border: solid 1px;
+    background-color: #fffaf9;
+    border-radius: 50%;
+  }
+  #toc-btn div {
+    position: relative;
+    height: 0.75rem;
+    width: 54%;
+  }
+  #toc-btn div h1 {
+    font-family: "dnp-shuei-gothic-kin-std", sans-serif;
+    font-weight: 600;
+    font-size: 0.75rem;
+    line-height: 1em;
+    color: #333132;
+    transform: scaleY(0.87);
+    transition: transform 150ms ease-out 200ms;
+    text-align: center;
+  }
+  #toc-btn div::before, #toc-btn div::after {
+    content: "";
+    position: absolute;
+    background: #333132;
+    width: 100%;
+    height: 1.8px;
+    transition: transform 200ms ease-in, top 200ms ease-out 200ms, bottom 200ms ease-out 200ms;
+    left: 0;
+  }
+  #toc-btn div::before {
+    top: -5.4px;
+  }
+  #toc-btn div::after {
+    bottom: -5.4px;
+  }
+  #toc-btn.on div h1 {
+    transform: scaleY(0);
+    transition: transform 180ms ease-in;
+  }
+  #toc-btn.on div::before, #toc-btn.on div::after {
+    transition: top 200ms ease-in, bottom 200ms ease-in, transform 200ms ease-out 200ms;
+  }
+  #toc-btn.on div::before {
+    top: calc(0.375rem - 0.9px);
+    transform: rotate(45deg);
+  }
+  #toc-btn.on div::after {
+    bottom: calc(0.375rem - 0.9px);
+    transform: rotate(135deg);
+  }
+}
+
+@media screen and (max-width: 559px) {
+  #table {
+    transform: translateX(100%);
+    transition: all 0.2s ease-in;
+    opacity: 0;
+  }
+}
+
+@media screen and (max-width: 559px) {
+  #table.active {
+    transform: translateX(0);
+    opacity: 100;
+    transition: all 0.3s ease-in-out;
+  }
 }
 
 /* ローディング画面背景 */
