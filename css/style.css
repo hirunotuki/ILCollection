@@ -3325,8 +3325,9 @@ body.body-o-col {
   margin-top: 0;
 }
 #content-area li, #content-area p {
-  font-family: "gaultier-jpn-ILC", "dnp-shuei-gothic-gin-std", sans-serif;
-  font-weight: 500;
+/*   font-family: "gaultier-jpn-ILC", "dnp-shuei-gothic-gin-std", sans-serif; */
+/*   font-weight: 500; */
+  font-family: "TsuGoPr5R-SyntaxNextLTProL";
   line-height: 2;
   font-variant-ligatures: normal;
   font-variant-numeric: tabular-nums;
