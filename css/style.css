@@ -169,7 +169,7 @@ dl {
 /* Headings */
 /* ============================================ */
 h1,
-h2,
+,
 h3,
 h4,
 h5,
@@ -3083,7 +3083,7 @@ body.body-o-col {
 .card:hover {
   box-shadow: inset 4px 4px 6px #fae6e0, inset -6px -6px 2px #ffffff;
 }
-.card h2 {
+.card  {
   width: 100%;
   position: relative;
   font-family: "gaultier-jpn-ILC", "ryo-gothic-plusn", sans-serif;
@@ -3095,7 +3095,7 @@ body.body-o-col {
   color: #333132;
   margin-bottom: 15px;
 }
-.card h2::after {
+.card ::after {
   position: absolute;
   width: 100%;
   height: 1.2px;
@@ -3279,12 +3279,12 @@ body.body-o-col {
     content: none;
   }
 }
-#first-view .ovv-date .ovv-date-box h2 {
+#first-view .ovv-date .ovv-date-box  {
   display: inline-block;
   margin-right: 1em;
 }
 @media screen and (max-width: 559px) {
-  #first-view .ovv-date .ovv-date-box h2 {
+  #first-view .ovv-date .ovv-date-box  {
     margin-right: initial;
     margin-bottom: 0.5em;
     text-combine-upright: all;
@@ -3409,7 +3409,8 @@ body.body-o-col {
   }
 }
 #content-area h3, #content-area h2 {
-  font-family: "gaultier-jpn-ILC", "kozuka-gothic-pr6n", sans-serif;
+/*   font-family: "gaultier-jpn-ILC", "kozuka-gothic-pr6n", sans-serif; */
+  font-family: "FOT-筑紫AMゴシックL Std B";
   font-weight: 800;
   line-height: 1em;
 }
