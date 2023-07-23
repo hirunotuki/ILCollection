@@ -3226,7 +3226,8 @@ body.body-o-col {
 /*   font-family: "gaultier-jpn-ILC", "ryo-gothic-plusn", sans-serif; */
   font-size: clamp(72px, -6px + 8.13vw, 150px);
 /*   font-weight: 800; */
-  font-family: "FOT-筑紫ゴシック Pr5 M";
+/*   font-family: "FOT-筑紫ゴシック Pr5 M"; */
+  font-family: "FOT-筑紫ゴシック Pro U";
   font-feature-settings: "hkna", "palt";
   font-variant-numeric: lining-nums proportional-nums;
   text-align: right;
