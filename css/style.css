@@ -3503,7 +3503,7 @@ body.body-o-col {
 }
 @media screen and (max-width: 559px) {
   #first-view .ovv-date .ovv-date-box h2 {
-    font-family: "UDKakugoC60Pro-DB", sans-serif;
+    font-family: "UDKakugoC60Pro-M", sans-serif;
     margin-right: initial;
     margin-bottom: 0.5em;
     text-combine-upright: all;
@@ -3512,6 +3512,11 @@ body.body-o-col {
 #first-view .ovv-date .ovv-date-box p {
   display: inline;
 }
+@media screen and (max-width: 559px) {
+  #first-view .ovv-date .ovv-date-box p {
+    font-family: "ILC-agenda-one-jpn", "UDKakugo_LargePr6-M", sans-serif;
+  }
+}
 #first-view .ovv-date .ovv-date-box p span {
   font-size: 2em;
   font-weight: 600;
@@ -3519,7 +3524,6 @@ body.body-o-col {
 }
 @media screen and (max-width: 559px) {
   #first-view .ovv-date .ovv-date-box p span {
-    font-family: "ILC-agenda-one-jpn", "UDKakugo_LargePr6-M", sans-serif;
     font-size: 1.2em;
     font-weight: 600;
   }
