@@ -3512,13 +3512,13 @@ body.body-o-col {
 }
 #first-view .ovv-date .ovv-date-box p span {
   font-size: 2em;
-  font-weight: 600;
-  font-variant-numeric: lining-nums proportional-nums;
+  font-weight: 700;
+  font-variant-numeric: oldstyle-nums proportional-nums;
 }
 @media screen and (max-width: 559px) {
   #first-view .ovv-date .ovv-date-box p span {
     font-size: 1.2em;
-    font-weight: 600;
+    font-weight: 500;
   }
   #first-view .ovv-date .ovv-date-box p span.month, #first-view .ovv-date .ovv-date-box p span.day {
     text-combine-upright: all;
@@ -3903,7 +3903,7 @@ span.halt {
 #table ol li.h21,
 #table ol li.h22 {
   font-size: clamp(14px, 10px + 0.4167vw, 18px);
-  font-family: "ILC-agenda-one-jpn", "TsukuGoPro-B", "kozuka-gothic-pr6n", sans-serif;
+  font-family: "ILC-agenda-one-jpn", "TsukuAMGothicLStd-B", "kozuka-gothic-pr6n", sans-serif;
   font-weight: 600;
   font-variant-numeric: lining-nums proportional-nums;
   line-height: 1.5em;
@@ -3939,7 +3939,7 @@ span.halt {
 #table ol li.h21 span,
 #table ol li.h22 span {
   display: inline-block;
-  font-family: "UDKakugoC80Pro-M", "dnp-shuei-gothic-kin-std", sans-serif;
+  font-family: "UDKakugoC70Pro-R", "dnp-shuei-gothic-kin-std", sans-serif;
   font-size: 0.8em;
   font-weight: 500;
 }
