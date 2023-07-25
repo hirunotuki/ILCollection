@@ -3962,8 +3962,6 @@ span.halt {
 #table ol li.h21,
 #table ol li.h22 {
   font-size: calc(clamp(14px, 10px + 0.4167vw, 18px) * 1.2);
-  font-family: "ILC-agenda-one", "TsukuGoPro-E", sans-serif;
-  font-weight: 700;
 }
 @media screen and (max-width: 559px) {
   #table ol li.h20,
