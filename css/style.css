@@ -3603,7 +3603,7 @@ div.para-uni::after {
   margin-top: 3.6em;
 }
 #content-area li {
-  margin-top: 1rem;
+  margin-top: 1.5rem;
 }
 #content-area li::marker {
   font-family: "ILC-agenda-jpn", sans-serif;
