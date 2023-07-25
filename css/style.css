@@ -3512,13 +3512,14 @@ body.body-o-col {
 }
 #first-view .ovv-date .ovv-date-box p span {
   font-size: 2em;
-  font-weight: 600;
+  font-weight: 700;
   font-variant-numeric: oldstyle-nums proportional-nums;
 }
 @media screen and (max-width: 559px) {
   #first-view .ovv-date .ovv-date-box p span {
     font-size: 1.2em;
     font-weight: 500;
+    font-variant-numeric: lining-nums;
   }
   #first-view .ovv-date .ovv-date-box p span.month, #first-view .ovv-date .ovv-date-box p span.day {
     text-combine-upright: all;
