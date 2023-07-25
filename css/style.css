@@ -3503,7 +3503,7 @@ body.body-o-col {
 }
 @media screen and (max-width: 559px) {
   #first-view .ovv-date .ovv-date-box h2 {
-    font-family: "UDKakugoC60Pro-M", sans-serif;
+    font-family: "UDTsukuGoPro-D", sans-serif;
     margin-right: initial;
     margin-bottom: 0.5em;
     text-combine-upright: all;
@@ -3514,7 +3514,7 @@ body.body-o-col {
 }
 @media screen and (max-width: 559px) {
   #first-view .ovv-date .ovv-date-box p {
-    font-family: "ILC-agenda-one-jpn", "UDKakugo_LargePr6-M", sans-serif;
+    font-family: "ILC-agenda-one-jpn", "TsukuGoPro-M", sans-serif;
   }
 }
 #first-view .ovv-date .ovv-date-box p span {
