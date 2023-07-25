@@ -3470,7 +3470,7 @@ body.body-o-col {
   }
 }
 #first-view .ovv-date {
-  font-family: "ILC-agenda-one-jpn", "TsukuAMGothicLStd-B", "kozuka-gothic-pr6n", sans-serif;
+  font-family: "ILC-agenda-one-jpn", "TsukuOldGothicStd-B", "kozuka-gothic-pr6n", sans-serif;
   font-size: clamp(14px, 10px + 0.4167vw, 18px);
   font-weight: 500;
   display: flex;
@@ -3554,12 +3554,12 @@ div.para-uni::after {
 #content-area p.para {
   font-size: 1rem;
   font-family: "ILC-agenda-one-jpn", "TsukuGoPr5-D", "dnp-shuei-gothic-kin-std", sans-serif;
-  font-weight: 500;
+  font-weight: 400;
   font-variant-ligatures: normal;
   font-variant-numeric: tabular-nums;
   font-feature-settings: "pkna", "chws";
   line-height: 2;
-  margin-top: 1.5em;
+  margin-top: 2em;
 }
 @media screen and (max-width: 559px) {
   #content-area p.para {
@@ -3603,13 +3603,13 @@ div.para-uni::after {
   content: "";
 }
 #content-area p.para:empty + ol {
-  margin-top: -3.5rem;
+  margin-top: -4rem;
 }
 #content-area .epiparas {
-  margin-top: 3.6em;
+  margin-top: 4rem;
 }
 #content-area li {
-  margin-top: 1.5rem;
+  margin-top: 2rem;
 }
 #content-area li::marker {
   font-family: "ILC-agenda-one-jpn", "TsukuGoPr5-D", sans-serif;
@@ -3653,20 +3653,20 @@ div.para-uni::after {
 #content-area h2 {
   font-size: 2rem;
   line-height: 1.2em;
-  margin-top: 3.6rem;
+  margin-top: 4rem;
 }
 #content-area h2 .h2-title {
   font-size: 0.75em;
   letter-spacing: 0.05em;
 }
 #content-area h2 + h2 {
-  margin-top: 2.4rem;
+  margin-top: 3rem;
 }
 #content-area h3 {
   font-size: 1.5rem;
   font-weight: 500;
   font-style: normal;
-  margin-top: 2.4rem;
+  margin-top: 3rem;
 }
 #content-area h3 .h3-title {
   font-size: 0.75em;
