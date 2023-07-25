@@ -3512,7 +3512,7 @@ body.body-o-col {
 }
 #first-view .ovv-date .ovv-date-box p span {
   font-size: 2em;
-  font-weight: 700;
+  font-weight: 600;
   font-variant-numeric: oldstyle-nums proportional-nums;
 }
 @media screen and (max-width: 559px) {
@@ -3935,17 +3935,22 @@ span.halt {
 #table ol li.h22 a:hover {
   color: #757173;
 }
-#table ol li.h3 span, #table ol li.h20 span,
-#table ol li.h21 span,
-#table ol li.h22 span {
+#table ol li.h3 span.tbl-no, #table ol li.h20 span.tbl-no,
+#table ol li.h21 span.tbl-no,
+#table ol li.h22 span.tbl-no {
+  margin: 0 0.09em;
+}
+#table ol li.h3 span[class$=title], #table ol li.h20 span[class$=title],
+#table ol li.h21 span[class$=title],
+#table ol li.h22 span[class$=title] {
   display: inline-block;
-  font-family: "UDKakugoC80Pro-R", "dnp-shuei-gothic-kin-std", sans-serif;
+  font-family: "UDKakugoC70Pro-R", "dnp-shuei-gothic-kin-std", sans-serif;
   font-size: 0.8em;
   font-weight: 500;
 }
-#table ol li.h3 span::before, #table ol li.h20 span::before,
-#table ol li.h21 span::before,
-#table ol li.h22 span::before {
+#table ol li.h3 span[class$=title]::before, #table ol li.h20 span[class$=title]::before,
+#table ol li.h21 span[class$=title]::before,
+#table ol li.h22 span[class$=title]::before {
   content: " – ";
   font-weight: 300;
   display: inline-block;
