@@ -3534,7 +3534,8 @@ body.body-o-col {
 
 ol.para-ol::before,
 ul.para-ul::before,
-div.para-uni::before {
+div.para-uni::before,
+div.div-h4::before {
   display: block;
   width: 0;
   height: 0;
@@ -3543,7 +3544,8 @@ div.para-uni::before {
 }
 ol.para-ol::after,
 ul.para-ul::after,
-div.para-uni::after {
+div.para-uni::after,
+div.div-h4::after {
   display: block;
   width: 0;
   height: 0;
@@ -3568,7 +3570,7 @@ div.para-uni::after {
   }
 }
 
-#content-area h3, #content-area h2 {
+#content-area h3, #content-area h2, #content-area h4 {
   font-family: "ILC-agenda-one-jpn", "TsukuAMGothicLStd-B", "kozuka-gothic-pr6n", sans-serif;
   font-weight: 500;
   line-height: 1em;
@@ -3601,6 +3603,25 @@ div.para-uni::after {
   height: 0;
   margin-bottom: -1em;
   content: "";
+}
+#content-area h4 {
+  font-size: 1rem;
+  line-height: 2;
+  margin-top: 2em;
+}
+#content-area h4::after {
+  display: block;
+  width: 0;
+  height: 0;
+  margin-bottom: -1em;
+  content: "";
+}
+#content-area h4 span[class$=title]::before {
+  content: "";
+  margin-left: 0.75em;
+}
+#content-area h4 + div.div-h4 > h4:first-child {
+  margin-top: 1em;
 }
 #content-area p.para:empty + ol {
   margin-top: -4rem;
@@ -3652,15 +3673,32 @@ div.para-uni::after {
 }
 #content-area h2 {
   font-size: 2rem;
-  line-height: 1.2em;
+  line-height: 1em;
   margin-top: 4rem;
 }
 #content-area h2 .h2-title {
+  display: block;
   font-size: 0.75em;
+  line-height: 1.5em;
   letter-spacing: 0.05em;
+  margin-top: 0.5em;
 }
-#content-area h2 + h2 {
-  margin-top: 3rem;
+#content-area h2 .h2-title::before {
+  display: block;
+  width: 0;
+  height: 0;
+  margin-top: calc((1 - 1.5) * 0.5em);
+  content: "";
+}
+#content-area h2 .h2-title::after {
+  display: block;
+  width: 0;
+  height: 0;
+  margin-bottom: calc((1 - 1.5) * 0.5em);
+  content: "";
+}
+#content-area h2 + div > h2:first-child {
+  margin-top: 2rem;
 }
 #content-area h3 {
   font-size: 1.5rem;
